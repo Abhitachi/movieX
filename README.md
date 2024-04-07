@@ -3,7 +3,7 @@
 
 MovieX is a dynamic and engaging movie website that provides movie enthusiasts with a wide range of movies to explore and enjoy. The website is designed to be user-friendly and easy to navigate, with a variety of features that make it simple to find the perfect movie for any occasion.
 
-#Functionalities
+<h4>#Functionalities</h4>
 
 Displaying popular movies: When you visit the home page, the app sends a request to the TMDB API to fetch a list of popular movies. The response is then used to display the movie titles and overviews on the page.
 
